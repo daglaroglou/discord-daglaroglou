@@ -86,4 +86,4 @@ export class Lanyard extends EventEmitter {
   }
 }
 
-export const lanyard = typeof window !== 'undefined' && new Lanyard('909386010322948147');
+export const lanyard = typeof window !== 'undefined' && new Lanyard('852825042630475827');
