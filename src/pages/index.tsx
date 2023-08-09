@@ -28,8 +28,8 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="shortcut icon" href="/public/assets/avatar.ico" />
         <meta name="theme-color" content="#000000" />
-        <title>dag.c</title>
-        <meta name="description" content="dag.c's personal discord website." />
+        <title>daglaroglou</title>
+        <meta name="description" content="daglaroglou's personal discord website." />
         <meta content="/images/avatar.jpg" property="og:image" />
     </Head>
 
