@@ -20,7 +20,7 @@ const nextConfig = {
       },
       {
         source: "/playlist",
-        destination: "https://open.spotify.com/playlist/1KxC6aqmvn2jydnIPL0KOj?si=2781ad9a73834105",
+        destination: "https://open.spotify.com/playlist/6q17eWz4tGzZjG2LVrdsxT",
         permanent: false
       },
       {
