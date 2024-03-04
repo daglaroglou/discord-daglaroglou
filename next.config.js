@@ -11,22 +11,22 @@ const nextConfig = {
       {
         source: "/github",
         destination: "https://github.com/daglaroglou",
-        permanent: false
+        permanent: true
       },
       {
         source: "/spotify",
         destination: "https://open.spotify.com/user/k13b5fnpzdnhbmd7wkiq9u73w",
-        permanent: false
+        permanent: true
       },
       {
         source: "/playlist",
         destination: "https://open.spotify.com/playlist/6q17eWz4tGzZjG2LVrdsxT",
-        permanent: false
+        permanent: true
       },
       {
         source: "/twitter",
         destination: "https://twitter.com/_daglaroglou_",
-        permanent: false
+        permanent: true
       }
     ];
   }
