@@ -24,7 +24,7 @@ export default function Home() {
     <main className="flex mx-auto items-center justify-center h-screen w-screen">
       <Head>
         <meta charSet="UTF-8" />
-        <link rel="canonical" href="https://discord.dag.is-a.dev" />
+        <link rel="canonical" href="https:/dag.killyourself.lol" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="shortcut icon" href="/public/assets/avatar.ico" />
         <meta name="theme-color" content="#000000" />
