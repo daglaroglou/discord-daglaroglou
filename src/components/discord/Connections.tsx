@@ -65,7 +65,7 @@ export default function Connections() {
               <VerifiedIcon />
             </div>
           </div>
-          <a href="https://playvalorant.com/" rel="noopener noreferrer" target="_blank">
+          <a href="https://www.op.gg/summoners/eune/DaG-1337">
             <AnchorIcon />
           </a>
         </div>
