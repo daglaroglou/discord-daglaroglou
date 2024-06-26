@@ -4,6 +4,7 @@ import TwitterIcon from './icons/TwitterIcon';
 import SpotifyIcon from './icons/SpotifyIcon';
 import VerifiedIcon from './icons/VerifiedIcon';
 import RiotIcon from './icons/RiotIcon';
+import InstaIcon from './icons/InstaIcon';
 
 export default function Connections() {
   return (
