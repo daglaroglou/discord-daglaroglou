@@ -20,9 +20,9 @@ export default function Profile(props: CardProps) {
           {/* Banner */}
           
           <picture>
-            <source type="image/webp" srcSet="/images/banner.webp" />
-            <source type="image/png" srcSet="/images/banner.png" />
-            <img src="/images/banner.webp" alt="banner" width="300" height="120" aria-hidden="true" draggable="false" className="block select-none" />
+            {/* <source type="image/webp" srcSet="/images/banner.webp" />
+            <source type="image/png" srcSet="/images/banner.png" /> */}
+            <img src="https://cdn.discordapp.com/banners/852825042630475827/a_1f4cfc01dbd1e8b395e031bc8281d0a0.gif" alt="banner" width="300" height="120" aria-hidden="true" draggable="false" className="block select-none" />
           </picture>
 
           {/* Avatar */}
