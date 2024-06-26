@@ -15,9 +15,9 @@ export default function Avatar(data: LanyardPresence) {
         <foreignObject x="0" y="0" width="80" height="80" mask="url(#avatar-mask)">
           <div className="grid w-full h-full">
             <picture>
-              <source srcSet="/images/avatar.webp 1x, /images/avatar.webp 2x, /images/avatar.webp 3x" type="image/webp" />
-              <source srcSet="/images/avatar.jpg 1x, /images/avatar.jpg 2x, /images/avatar.jpg 3x" type="image/png" />
-              <img src="/images/avatar.webp" alt="avatar" width="80" height="80" aria-hidden="true" draggable="false" className="block" />
+              {/* <source srcSet="/images/avatar.webp 1x, /images/avatar.webp 2x, /images/avatar.webp 3x" type="image/webp" />
+              <source srcSet="/images/avatar.jpg 1x, /images/avatar.jpg 2x, /images/avatar.jpg 3x" type="image/png" /> */}
+              <img src="https://cdn.discordapp.com/avatars/852825042630475827/a_d477e8fd414ae31cdce3442e10ae902a.gif" alt="avatar" width="80" height="80" aria-hidden="true" draggable="false" className="block" />
             </picture>
           </div>
         </foreignObject>
