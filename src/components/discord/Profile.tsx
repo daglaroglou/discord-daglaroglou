@@ -34,7 +34,6 @@ export default function Profile(props: CardProps) {
           <div className="pt-14 pb-3 px-4">
             <div className="text-xl font-semibold leading-6">
               <span className="text-slate-50">{props.data.discord_user.username}</span>
-              <span className="text-slate-300">            #1337</span>
               {/* <span className="text-slate-300">#{props.data.discord_user.discriminator}</span> */}
             </div>
           </div>
