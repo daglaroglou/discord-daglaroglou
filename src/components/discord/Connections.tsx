@@ -49,7 +49,7 @@ export default function Connections() {
               <VerifiedIcon />
             </div>
           </div>
-          <a href="https://instagram.com/_daglaroglou_">
+          <a href="https://instagram.com/_daglaroglou_" rel="noopener noreferrer" target="_blank">
             <AnchorIcon />
           </a>
         </div>
@@ -65,7 +65,7 @@ export default function Connections() {
               <VerifiedIcon />
             </div>
           </div>
-          <a href="https://www.op.gg/summoners/eune/DaG-1337">
+          <a href="https://www.op.gg/summoners/eune/DaG-1337" rel="noopener noreferrer" target="_blank">
             <AnchorIcon />
           </a>
         </div>
