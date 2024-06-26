@@ -68,7 +68,7 @@ export default function Connections() {
         }
         
         {/* Twitter */}
-        {
+        {/*
         <div className="h-12 mb-2 text-md w-auto relative flex items-center px-4 justify-between text-white border border-transparent rounded">
           <div className="flex-row flex text-center items-center whitespace-nowrap text-ellipsis overflow-hidden space-x-1">
             <TwitterIcon />
@@ -81,7 +81,7 @@ export default function Connections() {
             <AnchorIcon />
           </a>
         </div>
-        }
+        */}
       </div>
   );
 }

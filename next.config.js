@@ -27,6 +27,11 @@ const nextConfig = {
         source: "/twitter",
         destination: "https://twitter.com/_daglaroglou_",
         permanent: true
+      },
+      {
+        source: "/instagram",
+        destination: "https://www.instagram.com/_daglaroglou_",
+        permanent: true
       }
     ];
   }
