@@ -20,7 +20,7 @@ export default function Connections() {
             </div>
           </div>
           
-          <a href="/github" rel="noopener noreferrer" target="_blank">
+          <a href="https://github.com/daglaroglou" rel="noopener noreferrer" target="_blank">
             <AnchorIcon />
           </a>
         </div>
@@ -34,7 +34,7 @@ export default function Connections() {
               <VerifiedIcon />
             </div>
           </div>
-          <a href="/spotify"  rel="noopener noreferrer" target="_blank">
+          <a href="https://open.spotify.com/user/k13b5fnpzdnhbmd7wkiq9u73w?si=4826e4b24611419b"  rel="noopener noreferrer" target="_blank">
             <AnchorIcon />
           </a>
         </div>
@@ -65,9 +65,12 @@ export default function Connections() {
               <VerifiedIcon />
             </div>
           </div>
+          <a href="https://playvalorant.com/" rel="noopener noreferrer" target="_blank">
+            <AnchorIcon />
+          </a>
         </div>
         }
-        
+
         {/* Twitter */}
         {/*
         <div className="h-12 mb-2 text-md w-auto relative flex items-center px-4 justify-between text-white border border-transparent rounded">
