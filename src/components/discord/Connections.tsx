@@ -61,7 +61,7 @@ export default function Connections() {
               <VerifiedIcon />
             </div>
           </div>
-          <a href="/instagram">
+          <a href="https://instagram.com/_daglaroglou_">
             <AnchorIcon />
           </a>
         </div>
