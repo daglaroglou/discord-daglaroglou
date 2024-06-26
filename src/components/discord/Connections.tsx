@@ -3,7 +3,7 @@ import GitHubIcon from './icons/GitHubIcon';
 import TwitterIcon from './icons/TwitterIcon';
 import SpotifyIcon from './icons/SpotifyIcon';
 import VerifiedIcon from './icons/VerifiedIcon';
-import RiotIcon from './icons/RiotIcon';
+import LoLIcon from './icons/LoLIcon';
 import InstaIcon from './icons/InstaIcon';
 
 export default function Connections() {
@@ -59,7 +59,7 @@ export default function Connections() {
         {
         <div className="h-12 mb-2 text-md w-auto relative flex items-center px-4 justify-between text-white border border-transparent rounded">
           <div className="flex-row flex text-center items-center whitespace-nowrap text-ellipsis overflow-hidden space-x-1">
-            <RiotIcon />
+            <LoLIcon />
             <span className="text-md font-semibold text-white">DaG#1337</span>
             <div className="w-[16px] h-[16px]">
               <VerifiedIcon />
