@@ -46,8 +46,8 @@ export default function Profile(props: CardProps) {
 
             {/* Member Since */}
             <div className="mb-3 select-none">
-              <h2 className="font-bold text-xs text-slate-300 leading-4 mb-2 uppercase">Member Since</h2>
-              <span className="whitespace-pre-line text-normal">Jun 11, 2021</span>
+              <h2 className="font-bold text-xs text-slate-300 leading-4 mb-2 uppercase">Alive Since</h2>
+              <span className="whitespace-pre-line text-normal">May 27, 2005</span>
             </div>
             {/* Roles */}
             <Roles />
