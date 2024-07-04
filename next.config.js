@@ -32,11 +32,6 @@ const nextConfig = {
         source: "/instagram",
         destination: "https://www.instagram.com/_daglaroglou_",
         permanent: true
-      },
-      {
-        source: "/.well-known/discord",
-        destination: "/.well-known/discord",
-        permanent: true
       }
     ];
   }
