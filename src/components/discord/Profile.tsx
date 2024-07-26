@@ -22,7 +22,7 @@ export default function Profile(props: CardProps) {
           <picture>
             {/* <source type="image/webp" srcSet="/images/banner.webp" />
             <source type="image/png" srcSet="/images/banner.png" /> */}
-            <img src="https://cdn.discordapp.com/banners/852825042630475827/ec783517cbc2e8ab60507c1f128ac441.png" alt="banner" width="300" height="120" aria-hidden="true" draggable="false" className="block select-none" />
+            <img src="https://cdn.discordapp.com/banners/852825042630475827/936942b9b3f2ca0752e8690afa7bb018.png" alt="banner" width="300" height="120" aria-hidden="true" draggable="false" className="block select-none" />
           </picture>
 
           {/* Avatar */}
