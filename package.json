@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "author": "R3FL3X#1337 <contact@r3fl3x.tk> (https://r3fl3x.tk)",
+  "author": "dag",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
